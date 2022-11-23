@@ -1,0 +1,9 @@
+Body mass index: 26.296566837107374
+Gilberto adds two numbers: 10,3
+Result: 13
+Gilberto says: Hi!
+Gilberto is running(0 sec)
+Gilberto is running(1 sec)
+Gilberto is running(2 sec)
+Gilberto is running(3 sec)
+Gilberto is running(4 sec)
